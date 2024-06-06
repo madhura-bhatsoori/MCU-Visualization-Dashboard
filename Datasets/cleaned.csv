@@ -1,0 +1,60 @@
+ID,Name,Alignment,Gender,EyeColor,Race,HairColor,Publisher,SkinColor,Height,Weight
+1,Abe Sapien,good,Male,blue,Icthyo Sapien,No Hair,Dark Horse Comics,blue,191.0,65.0
+2,Abin Sur,good,Male,blue,Ungaran,No Hair,DC Comics,red,185.0,90.0
+34,Apocalypse,bad,Male,red,Mutant,Black,Marvel Comics,grey,213.0,135.0
+39,Archangel,good,Male,blue,Mutant,Blond,Marvel Comics,blue,183.0,68.0
+41,Ardina,good,Female,white,Alien,Orange,Marvel Comics,gold,193.0,98.0
+56,Azazel,bad,Male,yellow,Neyaphem,Black,Marvel Comics,red,183.0,67.0
+74,Beast,good,Male,blue,Mutant,Blue,Marvel Comics,blue,180.0,181.0
+75,Beast Boy,good,Male,green,Human,Green,DC Comics,green,173.0,68.0
+92,Bizarro,neutral,Male,black,Bizarro,Black,DC Comics,white,191.0,155.0
+108,Blackout,bad,Male,red,Demon,White,Marvel Comics,white,191.0,104.0
+114,Blink,good,Female,green,Mutant,Magenta,Marvel Comics,pink,165.0,56.0
+135,Brainiac,bad,Male,green,Android,No Hair,DC Comics,green,198.0,135.0
+149,Captain Atom,good,Male,blue,Human / Radiation,Silver,DC Comics,silver,193.0,90.0
+166,Century,good,Male,white,Alien,White,Marvel Comics,grey,201.0,97.0
+185,Copycat,neutral,Female,red,Mutant,White,Marvel Comics,blue,183.0,67.0
+203,Darkseid,bad,Male,red,New God,No Hair,DC Comics,grey,267.0,817.0
+226,Domino,good,Female,blue,Human,Black,Marvel Comics,white,173.0,54.0
+227,Donatello,good,Male,green,Mutant,No Hair,IDW Publishing,green,-99.0,-99.0
+232,Dr Manhattan,good,Male,white,Human / Cosmic,No Hair,DC Comics,blue,-99.0,-99.0
+233,Drax the Destroyer,good,Male,red,Human / Altered,No Hair,Marvel Comics,green,193.0,306.0
+245,Etrigan,neutral,Male,red,Demon,No Hair,DC Comics,yellow,193.0,203.0
+247,Evilhawk,bad,Male,red,Alien,Black,Marvel Comics,green,191.0,106.0
+248,Exodus,bad,Male,blue,Mutant,Black,Marvel Comics,red,183.0,88.0
+255,Fin Fang Foom,good,Male,red,Kakarantharaian,No Hair,Marvel Comics,green,975.0,18.0
+274,Gamora,good,Female,yellow,Zen-Whoberian,Black,Marvel Comics,green,183.0,77.0
+284,Gladiator,neutral,Male,blue,Strontian,Blue,Marvel Comics,purple,198.0,268.0
+331,Hulk,good,Male,green,Human / Radiation,Green,Marvel Comics,green,244.0,630.0
+369,Joker,bad,Male,green,Human,Green,DC Comics,white,196.0,86.0
+377,K-2SO,good,Male,white,Android,No Hair,George Lucas,gray,213.0,-99.0
+386,Killer Croc,bad,Male,red,Metahuman,No Hair,DC Comics,green,244.0,356.0
+387,Killer Frost,bad,Female,blue,Human,Blond,DC Comics,blue,-99.0,-99.0
+388,Kilowog,good,Male,red,Bolovaxian,No Hair,DC Comics,pink,234.0,324.0
+392,Klaw,bad,Male,red,Human,No Hair,Marvel Comics,red,188.0,97.0
+404,Leonardo,good,Male,blue,Mutant,No Hair,IDW Publishing,green,-99.0,-99.0
+413,Lobo,neutral,Male,red,Czarnian,Black,DC Comics,blue-white,229.0,288.0
+431,Mantis,good,Female,green,Human-Kree,Black,Marvel Comics,green,168.0,52.0
+432,Martian Manhunter,good,Male,red,Martian,No Hair,DC Comics,green,201.0,135.0
+480,Mystique,bad,Female,yellow (without irises),Mutant,Red / Orange,Marvel Comics,blue,178.0,54.0
+487,Nebula,bad,Female,blue,Luphomoid,No Hair,Marvel Comics,blue,185.0,83.0
+497,Nova,good,Female,white,Human / Cosmic,Red,Marvel Comics,gold,163.0,59.0
+523,Poison Ivy,bad,Female,green,Human,Red,DC Comics,green,168.0,50.0
+533,Purple Man,bad,Male,purple,Human,Purple,Marvel Comics,purple,180.0,74.0
+549,Red Hulk,neutral,Male,yellow,Human / Radiation,Black,Marvel Comics,red,213.0,630.0
+587,Shadow Lass,good,Female,black,Talokite,Black,DC Comics,blue,173.0,54.0
+600,Silver Surfer,good,Male,white,Alien,No Hair,Marvel Comics,silver,193.0,101.0
+603,Sinestro,neutral,Male,black,Korugaran,Black,DC Comics,red,201.0,92.0
+615,Spectre,good,Male,white,God / Eternal,No Hair,DC Comics,white,-99.0,-99.0
+634,Starfire,good,Female,green,Tamaranean,Auburn,DC Comics,orange,193.0,71.0
+639,Steppenwolf,bad,Male,red,New God,Black,DC Comics,white,183.0,91.0
+647,Swamp Thing,bad,Male,red,God / Eternal,No Hair,DC Comics,green,-99.0,-99.0
+648,Swarm,bad,Male,yellow,Mutant,No Hair,Marvel Comics,yellow,196.0,47.0
+657,Thanos,bad,Male,red,Eternal,No Hair,Marvel Comics,purple,201.0,443.0
+668,Tiger Shark,bad,Male,grey,Human,No Hair,Marvel Comics,grey,185.0,203.0
+672,Toad,neutral,Male,black,Mutant,Brown,Marvel Comics,green,175.0,76.0
+677,Trigon,bad,Male,yellow,God / Eternal,Black,DC Comics,red,-99.0,-99.0
+679,Triton,good,Male,green,Inhuman,No Hair,Marvel Comics,green,188.0,86.0
+699,Vision,good,Male,gold,Android,No Hair,Marvel Comics,red,191.0,135.0
+730,Ymir,good,Male,white,Frost Giant,No Hair,Marvel Comics,white,304.8,-99.0
+731,Yoda,good,Male,brown,Yoda's species,White,George Lucas,green,66.0,17.0
